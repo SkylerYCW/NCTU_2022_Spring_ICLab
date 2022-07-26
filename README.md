@@ -1,7 +1,7 @@
 ## IC_Lab
 **NCTU 2022 Spring Integrated Circuit Design Laboratory**
 - Lab01: Combinational Circuits Design
-- Lab02
+- Lab02: 
 - Lab03
 - Lab04
 - Lab05
