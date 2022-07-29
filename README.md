@@ -10,5 +10,5 @@
 - Lab08
 - Lab09
 - Lab10
-- Lab11
-- Lab12
+- Lab11: APR flow
+- Lab12: APR flow
