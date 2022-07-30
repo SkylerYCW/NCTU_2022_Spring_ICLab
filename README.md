@@ -2,7 +2,7 @@
 **NCTU 2022 Spring Integrated Circuit Design Laboratory**
 - Lab01: Combinational Circuits Design
 - Lab02: 
-- Lab03:
+- Lab03: Sequential
 - Lab04:
 - Lab05:
 - Lab06:
