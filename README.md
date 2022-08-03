@@ -3,7 +3,7 @@
 - Lab01: Code Calculator
 - Lab02: Digit matching machine
 - Lab03: Sequential
-- Lab04:
+- Lab04: Convolution Neural Network
 - Lab05: Template Matching with Image Processing
 - Lab06: RSA
 - Midterm Project: Time of Flight (TOF)
