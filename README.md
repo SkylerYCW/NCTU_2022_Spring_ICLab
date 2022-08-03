@@ -15,4 +15,4 @@
 - Lab12: Digit matching machine APRII
 - Final Project: Time of Flight (TOF)
 - Lab Bonus: Formal Verification
-- OT: CORDIC
+- Online Test: CORDIC
