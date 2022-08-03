@@ -9,7 +9,7 @@
 - Midterm Project: Time of Flight (TOF)
 - Lab07: Clock Domain Crossing (CDC)
 - Lab08: Pokemon Simulation Game
-- Lab09: Pokemon Simulation Game (From Lab08)
+- Lab09: Coverage of Pokemon Simulation Game (From Lab08)
 - Lab10: Image Display Control (IDC)
 - Lab11: Local Binary Pattern
 - Lab12: Digit matching machine APRII
