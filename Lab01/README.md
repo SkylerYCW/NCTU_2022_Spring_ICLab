@@ -1,2 +1,1 @@
-### Lab01
-#### Code Calculator
+### Lab01: Code Calculator
