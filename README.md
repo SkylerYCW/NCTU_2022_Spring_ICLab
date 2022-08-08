@@ -2,7 +2,7 @@
 **NCTU 2022 Spring Integrated Circuit Design Laboratory**
 - Lab01: Code Calculator
 - Lab02: Digit matching machine
-- Lab03: Sequential
+- Lab03: Escape
 - Lab04: Convolution Neural Network
 - Lab05: Template Matching with Image Processing
 - Lab06: RSA
