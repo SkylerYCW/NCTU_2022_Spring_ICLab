@@ -1,5 +1,5 @@
 # ICLab
-**NCTU 2022 Spring Integrated Circuit Design Laboratory**
+## **NCTU 2022 Spring Integrated Circuit Design Laboratory**
 - Lab01: Code Calculator
 - Lab02: Digit matching machine
 - Lab03: Escape
